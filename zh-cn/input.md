@@ -4,10 +4,6 @@
 
 ### Input Attributes {#input-attributes}
 
-
-
-
-
 ## Usage
 
 ```
@@ -53,7 +49,6 @@
         components: { WxInput, WxIcon }
     }
 </script>
-
 ```
 
 
