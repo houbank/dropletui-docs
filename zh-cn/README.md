@@ -1,3 +1,2 @@
-# title1
-
-# title2
+# /zh-cn/readme.md
+# 欢迎使用水滴UI
