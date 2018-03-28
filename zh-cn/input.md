@@ -1,8 +1,33 @@
 # input 说明文档
 
-
-
 ### Input Attributes {#input-attributes}
+
+| 参数 | 说明 | 类型 | 可选值 | 默认值 |
+| :--- | :--- | :--- | :--- | :--- |
+| width | 宽 | string |  |  |
+| type | 类型 | string |  | text |
+| icon | 前缀图标url | string |  |  |
+| tail | 尾部图标URL | string |  |  |
+| placeholder | placeholder | string |  | 无 |
+| value | value | string |  |  |
+| disabled | disabled | boolean |  |  |
+| autofocus | autofocus | boolean |  |  |
+| maxlength | maxlength | string |  |  |
+| iconStyle | 前缀图标样式 | object | 常规style样式 | 无 |
+| tailStyle | 尾部图标样式 | object | 常规style样式 | 无 |
+|  |  |  |  |  |
+
+## slot
+
+| name | 说明 |
+| :--- | :--- |
+| left | 左侧slot |
+
+## event
+
+| 事件名 | 说明 | 回到参数 |
+| :--- | :--- | :--- |
+| wxInput |  | input value |
 
 ## Usage
 
