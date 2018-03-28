@@ -1,6 +1,6 @@
 # input 说明文档
 
-### Input Attributes {#input-attributes}
+## Attributes
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
