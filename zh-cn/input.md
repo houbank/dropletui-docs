@@ -4,9 +4,9 @@
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
-| width | 宽 | string |  |  |
-| type | 类型 | string |  | text |
-| icon | 前缀图标url | string |  |  |
+| width | 100px | string |  | 无 |
+| type | 类型 | string | text,number | text |
+| icon | 前缀图标URL | string |  |  |
 | tail | 尾部图标URL | string |  |  |
 | placeholder | placeholder | string |  | 无 |
 | value | value | string |  |  |
@@ -15,7 +15,6 @@
 | maxlength | maxlength | string |  |  |
 | iconStyle | 前缀图标样式 | object | 常规style样式 | 无 |
 | tailStyle | 尾部图标样式 | object | 常规style样式 | 无 |
-|  |  |  |  |  |
 
 ## slot
 
@@ -25,9 +24,9 @@
 
 ## event
 
-| 事件名 | 说明 | 回到参数 |
+| 事件名 | 说明 | 回调参数 |
 | :--- | :--- | :--- |
-| wxInput |  | input value |
+| wxInput | input事件，回调无返回Event对象 | input value |
 
 ## Usage
 
