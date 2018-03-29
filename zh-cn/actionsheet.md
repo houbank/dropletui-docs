@@ -47,7 +47,7 @@
 </template>
 
 <script>
-    import { WxActionsheet, WxButton } from '../../index';
+    import { WxActionsheet, WxButton } from 'weex-droplet-ui';
     const modal = weex.requireModule('modal');
 
     export default {
