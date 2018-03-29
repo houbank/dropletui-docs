@@ -7,7 +7,7 @@
 | width |  | string |  | 670px |
 | height |  | string |  | 90px |
 | borderRadius |  | string |  | 12px |
-| disabled |  | boolean | true\|false | false |
+| disabled |  | boolean | true/false | false |
 | styles | 常规css样式 | object |  | {} |
 | textColor | 文本颜色 | string |  | \#fff |
 | textFontSize | 字体大小 | string |  | 36px |
