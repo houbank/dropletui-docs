@@ -63,8 +63,7 @@
     }
 </style>
 <script>
-    import WxInput from '../../packages/wx-input/index';
-    import WxIcon from '../../packages/wx-icon/index';
+    import { WxInput, WxIcon } from 'weex-droplet-ui';
     export default {
         data () {
             return {
