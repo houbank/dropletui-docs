@@ -45,7 +45,7 @@
 </template>
 
 <script>
-    import { WxButton } from '../../index';
+    import { WxButton } from 'weex-droplet-ui';
     const modal = weex.requireModule('modal');
     export default {
         data(){
@@ -70,7 +70,6 @@
         }
     }
 </script>
-
 ```
 
 
