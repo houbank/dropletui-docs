@@ -86,7 +86,7 @@
 </style>
 
 <script>
-    import { WxCell } from '../../index';
+    import { WxCell } from 'weex-droplet-ui';
     const modal = weex.requireModule('modal');
     // import WxCell from 'weex-droplet-ui/packages/wx-cell';
     export default {
