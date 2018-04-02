@@ -4,7 +4,7 @@
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
-| value |  | boolean |  | false |
+| v-model |  | boolean |  | false |
 | closeOnClickMask | 点击背景隐藏 | boolean |  | true |
 | cancelText | 取消 | string |  | 取消 |
 | titleText | 标题 | string |  | 标题 |

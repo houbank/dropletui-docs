@@ -151,7 +151,7 @@
         color: #fff;
     }
     /*dialog*/
-    
+
 </style>
 <script>
     import { WxDialog, WxButton } from 'weex-droplet-ui';
@@ -182,7 +182,6 @@
         }
     }
 </script>
-
 ```
 
 
