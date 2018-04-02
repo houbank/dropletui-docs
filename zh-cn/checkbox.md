@@ -4,6 +4,7 @@
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
+| v-model |  |  |  |  |
 | defualtChecked | 默认是否选中 | boolean |  | false |
 | disabled |  | boolean |  | false |
 | text | 文字 | string |  |  |
@@ -62,7 +63,6 @@
         }
     }
 </script>
-
 ```
 
 

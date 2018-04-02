@@ -4,6 +4,7 @@
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
+| v-model |  |  |  |  |
 | width | 100px | string |  | 无 |
 | type | 类型 | string | text,number | text |
 | icon | 前缀图标URL | string |  |  |
