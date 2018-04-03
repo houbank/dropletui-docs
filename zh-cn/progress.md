@@ -54,7 +54,7 @@
     export default {
         data () {
             return {
-                
+
             }
         },
         components: {
@@ -70,7 +70,6 @@
         margin-top: 60px;
     }
 </style>
-
 ```
 
 
