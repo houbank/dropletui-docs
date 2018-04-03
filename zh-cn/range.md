@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | v-model |  | number |  |  |
 | width |  | string |  | 750px |
-| height |  |  |  | 10px |
+| height |  | string |  | 10px |
 | circleStyle | 圆圈style | object |  | {} |
 | innerStyle | 未选中的部分style | object |  | {} |
 | outerStyle | 被选中的范围style | object |  | {} |
@@ -38,7 +38,7 @@
         </wx-range>
         <text style="margin-top:100px;font-size: 32px;">{{ range }}</text>
         <wx-button class="button" @wxClick="setRange()">设置进度50%</wx-button>
-        
+
          <text style="margin-top:100px;"></text>
         <wx-range 
             width="450px"
@@ -94,7 +94,6 @@
         }
     }
 </script>
-
 ```
 
 
