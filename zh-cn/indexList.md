@@ -5,7 +5,7 @@
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
 | items | 数据 | array |  | \[\] |
-| wxChange | 回调函数 | function |  |  |
+| wxChange | 回调函数 | function |  | - |
 
 ## slot
 
