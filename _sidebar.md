@@ -25,4 +25,5 @@
     - [indexList](/zh-cn/indexList)
     - [icon](/zh-cn/icon)
     - [cell](/zh-cn/cell)
+    - [switch](/zh-cn/switch)
 
