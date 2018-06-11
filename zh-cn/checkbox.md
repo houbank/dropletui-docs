@@ -4,7 +4,7 @@
 
 | 参数 | 说明 | 类型 | 可选值 | 默认值 |
 | :--- | :--- | :--- | :--- | :--- |
-| v-model |  |  |  |  |
+| v-model |  | boolean |  |  |
 | disabled |  | boolean |  | false |
 | text | 文字 | string |  |  |
 | align | 文字位置 | string |  | left |
@@ -194,7 +194,6 @@
         }
     }
 </script>
-
 ```
 
 
