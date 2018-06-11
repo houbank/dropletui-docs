@@ -1,4 +1,4 @@
-# checkbox
+# checkbox-list
 
 ## Attributes
 
@@ -78,7 +78,6 @@
         }
     }
 </script>
-
 ```
 
 
