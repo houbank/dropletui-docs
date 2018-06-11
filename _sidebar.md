@@ -3,6 +3,7 @@
     - [field](/zh-cn/field)
     - [radio](/zh-cn/radio)
     - [checkbox](/zh-cn/checkbox)
+    - [checkbox-list](/zh-cn/checkbox-list)
     - [button](/zh-cn/button)
 
 - [ MODAL ]
