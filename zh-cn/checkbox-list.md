@@ -20,7 +20,7 @@
 
 | 事件名 | 说明 | 回调参数 |
 | :--- | :--- | :--- |
-| wxChange |  | true or false |
+| wxChange |  | array item object |
 
 ## Usage
 
