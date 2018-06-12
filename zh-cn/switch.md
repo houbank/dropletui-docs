@@ -6,7 +6,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | v-model |  | boolean |  |  |
 | disabled | 不可选 | boolean |  |  |
-| checkedColor | 选中状态的颜色 | string |  | \#26a2ff |
+| checkedColor | 选中状态的颜色 | string |  | \#027FF3 |
 
 ## slot
 
@@ -100,7 +100,6 @@
         }
     }
 </script>
-
 ```
 
 
