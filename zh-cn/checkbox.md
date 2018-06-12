@@ -121,7 +121,8 @@
             </wx-cell>
         <text class="title">checkbox-list</text>
         <wx-checkbox-list 
-            v-model="list" 
+            v-model="list"
+            :options="options"
             width="750px"
             height="100px"
             padding="20px"
@@ -129,7 +130,7 @@
             @wxChange="handleChange">
         </wx-checkbox-list>
         <div class="result">
-            <text v-for="item in list">{{ item.checked }},</text>
+            <text>[{{ list.join() }}]</text>
         </div>
     </div>
 </template>
@@ -173,12 +174,13 @@
                  checked3: false,
                  checked4: true,
                  checked5: false,
-                 list: [
-                    { title: '爱看电影', value: 1, checked: false },
+                 options: [
+                    { title: '爱看电影', value: 1, checked: false, disabled: true },
                     { title: '爱看小说', value: 2, checked: true },
                     { title: '爱看抖音', value: 3, checked: false },
                     { title: '爱刷微博', value: 4, checked: true }
-                 ]
+                 ],
+                 list: [],
             }
         },
         created () {
@@ -186,14 +188,16 @@
         },
         methods: {
             handleClick () {
+                // 第一个例子使用
                 this.checked = !this.checked;
             },
-            handleChange (list) {
-                console.log(JSON.parse(JSON.stringify(list)))
+            handleChange (checkedListValue) {
+                console.log(checkedListValue)
             },
         }
     }
 </script>
+
 ```
 
 
