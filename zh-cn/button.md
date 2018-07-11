@@ -10,7 +10,7 @@
 | disabled |  | boolean |  | false |
 | styles | 常规css样式 | object |  | {} |
 | textColor | 文本颜色 | string |  | \#fff |
-| textFontSize | 字体大小 | string |  | 36px |
+| textFontSize | 字体大小 | string |  | 32px |
 | disableOnPromise | 点击按钮disable on promise | function |  |  |
 | disabledBgColor | disabled时按钮背景颜色 | string | 常规background-color值 | rgba\(0, 0, 0, 0.1\) |
 
