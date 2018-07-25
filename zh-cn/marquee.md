@@ -1,4 +1,4 @@
-# marquee
+# Marquee
 
 ## Attributes
 
@@ -53,7 +53,7 @@
                 :duration="8000"
                 :delay="2000">
             </wx-marquee>
-            
+
         </div>
 
         <wx-marquee 
@@ -119,7 +119,6 @@
         }
     }
 </script>
-
 ```
 
 
