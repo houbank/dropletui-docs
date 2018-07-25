@@ -8,7 +8,7 @@
 | textWidth | 文本的宽度（包含滚动区域） | string | px值 | 750px |
 | height | 高度 | string | px值 | 80px |
 | direction | 拍立方向 | string | row,column | row |
-| text | 文本内容 | string\|array |  |  |
+| text | 文本内容 | string,array |  |  |
 | fontSize | 文本字体大小 | string | px值 | 32px |
 | textColor | 文本颜色 | string |  | \#333333 |
 | bgColor | 背景颜色 | string |  | \#ffffff |
