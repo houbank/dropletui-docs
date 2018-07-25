@@ -28,6 +28,8 @@
 | 事件名 | 说明 | 回调参数 |
 | :--- | :--- | :--- |
 | wxInput | input事件，回调无返回Event对象 | input value |
+| wxBlur | 失去焦点 |  |
+| wxFocus | 聚焦 |  |
 
 ## Usage
 
