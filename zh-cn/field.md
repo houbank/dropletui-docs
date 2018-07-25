@@ -33,6 +33,8 @@
 | :--- | :--- | :--- |
 | wxBlur | 失去焦点触发回调 | input value |
 | wxClick | 点击时触发回调 | no |
+| wxFocus | 聚焦 | input value |
+| wxInput | 输入 | input value |
 
 ## Usage
 
