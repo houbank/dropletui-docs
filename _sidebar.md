@@ -27,4 +27,5 @@
     - [icon](/zh-cn/icon)
     - [cell](/zh-cn/cell)
     - [switch](/zh-cn/switch)
+    - [marquee](/zh-cn/marquee)
 
